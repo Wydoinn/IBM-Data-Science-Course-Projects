@@ -1,4 +1,4 @@
-# Data Science Capstone Prokects
+# Data Science Capstone Project
 
 **Part of [IBM Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)**
 
